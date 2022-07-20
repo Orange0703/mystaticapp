@@ -6,15 +6,15 @@
 
 "forwardingGateway": {
   "requiredHeaders": {
-    "X-Azure-FDID" : "6b3e2909-b45f-4c6e-820d-1ba3c2ee9988"
+    "X-Azure-FDID" : "d5bfb11c-3354-4214-a86a-d20ce282a840"
   },
   "allowedForwardedHosts": [
-     "www.metlifecare.kiwi","metlifecare.kiwi"
+     "linruin-frontend.azurefd.net"
   ],
     "route": "/members",
    "allowedRoles": ["authenticated, members"],
     "headers": {
         "Cache-Control": "no-store"
     }
-
+    }
 }
