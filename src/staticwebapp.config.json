@@ -1,6 +1,6 @@
 {
     
     "networking": {
-  "allowedIpRanges": ["AzureFrontDoor.Backend"]
+  "allowedIpRanges": ["213.122.1.2"]
 }
 }
