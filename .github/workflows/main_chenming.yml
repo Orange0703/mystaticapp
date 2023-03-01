@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Chenming'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F313FFD7748C434FA1554863E91A4730 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6C462F07606D4E348F8FA0CB69F6EC4F }}
           package: .
